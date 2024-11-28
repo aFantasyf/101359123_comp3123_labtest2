@@ -1,0 +1,57 @@
+body{
+    background-color: #797A9E;
+}
+
+
+nav{
+    margin-top: 5%;
+    padding-bottom: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.bord{
+    width: 700px;
+    margin-left: 450px;
+    border-radius: 20px;
+}
+
+.fonts{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bord2{
+    align-items: end;
+}
+
+.card1 {
+    flex: 1;
+    background: #9893DA;
+    color: #625F63;
+    padding: 20px;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    border-radius: 15px;
+}
+
+.card2{
+    flex: 2;
+    font-size: 15px;
+    color: #625F63;
+    padding: 20px;
+    background-color: #BBBDF6;
+    border-radius: 15px;
+}
+
+
+
+
+
+
